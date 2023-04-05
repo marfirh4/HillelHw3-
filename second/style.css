@@ -1,0 +1,17 @@
+.main_input {
+    width: 80%;
+    border: 2px black solid;
+    border-radius: 3px;
+}
+div {
+    width: 80%;
+    margin: 0 auto;
+}
+body {
+    background-color: lightgray;
+}
+#button {
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
